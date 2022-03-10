@@ -2,7 +2,7 @@
 
 O desafio um será:
 
--Você deve criar um projeto no intellij Idea
+#-Você deve criar um projeto no intellij Idea
 -Após a criação do projeto você irá criar uma classe main
 -Dentro de sua classe main você irá inserir:
 
