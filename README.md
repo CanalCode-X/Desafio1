@@ -8,7 +8,7 @@ O desafio um será:
 
 public static void main(String[] args) {
 
--E aqui dentro usando o "System.out.println();" vocês iram criar uma apresentação sobre vocês
+-E aqui dentro usando o "System.out.println();" vocês iram criar uma apresentação sobre você
         
 }
 
