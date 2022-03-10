@@ -21,10 +21,10 @@ Requisitos:
 
 Exemplo:
 
-Nome: Stephanie
-Idade: 23
-Trabalho: Engenheira de Software
-Quero ser: Especialista em Java
-Estou estudando: Analise e desenvolvimento de sistemas.
+- Nome: Stephanie
+- Idade: 23
+- Trabalho: Engenheira de Software
+- Quero ser: Especialista em Java
+- Estou estudando: Analise e desenvolvimento de sistemas.
 
 BOA SORTE ! :D
